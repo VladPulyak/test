@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nl27KC6B2PJVOQ+aiLyXcnJNZGmW9WEfoYPUtUot3aUFWxr2oUTdnMz6TQ4RFyGH6K2HfD/S1WOj2S/dcSZ5kA==",
+  "success": true,
+  "projectFilePath": "D:\\.NET projects\\testgt\\testgt\\testgt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
